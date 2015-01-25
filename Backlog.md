@@ -2,7 +2,7 @@ Backlog.md
 
 # List of things to be done until official launch #
 
-1.	Initial phase
+## Initial phase ##
 
 *	Gathering
 	*	{done} Tools vs Objects - two opposing ideas
@@ -20,7 +20,7 @@ Backlog.md
 	*	as an iBook
 	*	as a website - Panels .todo.Chat to Dario .todo.Get a domain
 
-2.	Collaboration phase
+## Collaboration phase ##
 
 *	.todo.Share the Github Repo with Thinkful students and mentors - First Review Call Out
 *	Act accordingly
