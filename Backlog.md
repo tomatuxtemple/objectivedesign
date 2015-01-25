@@ -1,5 +1,3 @@
-Backlog.md
-
 # List of things to be done until official launch #
 
 ## Initial phase ##
