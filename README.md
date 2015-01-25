@@ -2,7 +2,7 @@
 Design framework for developers, business analysts and design students.
 
 ### We search for ###
-One design language as a communication platform between developers, business and design within the team.
+One design language as a communication platform between developers, business and design folks.
 
 ### We push for ###
 Knowledge transfer, because everyone should be a designer.
