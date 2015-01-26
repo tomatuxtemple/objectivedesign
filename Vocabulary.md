@@ -5,9 +5,9 @@ Not in the alphabetical order, yet.
 A container of properties (or a single [property](#property)) describing a meaningful entity for the user within the application.
 
 Examples:
-*	Document <object>, Page count <property, number>
-*	User <object>, Name <property, string>
-*	Email <object>, Attachment <property, bool>
+*	Document - object, Page count - property as number
+*	User - object, Name - property as string
+*	Email - object, Attachment - property as bool
 
 Objects are:
 *	Displayed in views based on their properties.
@@ -21,15 +21,18 @@ Objects are:
 ### Action ###
 
 .todo.Add description
+.todo.Insert graphical representation here
 
 
 
 ### Property ###
 
 .todo.Add description
+.todo.Insert graphical representation here
 
 
 
 ### Extract ###
 
 .todo.Add description
+.todo.Insert graphical representation here
