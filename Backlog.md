@@ -15,7 +15,13 @@
 
 *	Publishing
 	*	as a Github Repo
+	- [ ] Set up Repo
+	- [ ] Add initial content
 	*	as an iBook
+	- [ ] Create template
+	- [ ] Plan interactive widgets
+	- [ ] Copy content from Github
+	- [ ] Publish to iBooks
 	*	as a website - Panels 
 	- [ ] Chat to Dario 
 	- [ ] Get a domain
