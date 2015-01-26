@@ -5,14 +5,14 @@ Not in the alphabetical order, yet.
 A container of properties (or a single [property](#property)) describing a meaningful entity for the user within the application.
 
 Examples:
-*	Document -> object, Page count - property as number
-*	User -> object, Name - property as string
-*	Email -> object, Attachment - property as bool
+*	Document --> object, Page count --> property as number
+*	User --> object, Name --> property as string
+*	Email --> object, Attachment --> property as bool
 
 Objects are:
 *	Displayed in views based on their properties.
 *	Linked with each other via connections or property [extraction](#extract).
-*	Complied into [actions](#action).
+*	Complied into [actions](#action).   
 
 - [ ] Insert graphical representation here
 
