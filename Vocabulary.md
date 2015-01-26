@@ -14,8 +14,6 @@ Objects are:
 *	Linked with each other via connections or property [extraction](#extract).
 *	Complied into [actions](#action).   
 
-![Examples of objects](/images/imagetest.jpg)
-
 
 - [ ] Insert proper graphical representation here
 
