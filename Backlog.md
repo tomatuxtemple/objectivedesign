@@ -16,7 +16,9 @@
 *	Publishing
 	*	as a Github Repo
 	*	as an iBook
-	*	as a website - Panels - [ ] Chat to Dario .todo.Get a domain
+	*	as a website - Panels 
+	- [ ] Chat to Dario 
+	- [ ] Get a domain
 
 ## Collaboration phase ##
 
