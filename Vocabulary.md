@@ -12,7 +12,7 @@ Examples:
 Objects are:
 *	Displayed in views based on their properties.
 *	Linked with each other via connections or property [extraction](#extract).
-*	Complied into [actions](#action).   
+*	Complied into [actions](#ad-hoc-action).   
 
 - [x] Add description
 - [ ] Insert proper graphical representation here
@@ -26,16 +26,16 @@ Objects are:
 
 
 
-### Action ###
-Property mode update as a result of user (or system) interaction with it.
+### Ad hoc Action ###
+Properties mode update as a result of user (or system) interaction with it.
 
 Example:
-*	User --> object 1 - is required to add number of cars --> property of object 2 - she or he owns. User is presented with Todo --> object 3 - and taken to view with input field in specific editing mode to complete the action. Once the update is saved the result is being logged and action is completed.
+*	User --> object 1 - is required to add number of cars --> property of object 2 - she or he owns --> ad hoc action. User is presented with Todo --> object 3 - and taken to view with input field in specific editing mode to complete the action. Once the update is saved the result is being logged and action is completed.
 
-Actions are:
+Ad hoc actions are:
 *	Always compiled with use of [user object](#user-object) or it's special case, [system object](#user-object).
 *	One of two ways (together with [views](#views) to browse "Objective D" applications.
-*	Triggers for new actions when completed, therefore actions are usually [chained](#chained-actions).
+*	Triggers for new actions when completed, therefore ad hoc actions are usually [chained](#chained-actions) with following actions. Ad hoc actions and chained actions within one use case create [smalltalk](#smalltalk).
 
 - [x] Add description
 - [ ] Insert graphical representation here
@@ -44,6 +44,13 @@ Actions are:
 
 ### Chained Actions ###
 
+- [ ] Add description
+- [ ] Insert graphical representation here
+
+
+
+### Smalltalk ###
+Ad hoc actions and chained actions within one use case. 
 - [ ] Add description
 - [ ] Insert graphical representation here
 
