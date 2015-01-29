@@ -56,7 +56,7 @@ Example:
 Ad hoc actions are:
 *	Always compiled with use of [user object](#user-and-system-object) or it's special case, [system object](#user-and-system-object).
 *	One of two ways (together with [views](#views)) to browse "Objective D" applications.
-*	Triggers for new actions when completed, therefore ad hoc actions are usually [chained](#chained-actions) with following up actions. 
+*	Triggers for new actions when completed, therefore ad hoc actions can be [chained](#chained-actions) with following up actions. 
 *	Part of the [smalltalk](#smalltalk) (together with chained actions and within one use case).
 
 - [x] Add description
@@ -65,8 +65,15 @@ Ad hoc actions are:
 
 
 ### Chained Actions ###
+When one action occurs as a result of another action being completed.
 
-- [ ] Add description
+Example:
+*	Action 1 --> User adds on number of cars she or he owns. This action is being logged as completed and next action is being created based on the [smalltalk](#smalltalk) rules. Now, his insurance supplier needs to attach offers for each car --> action 2.
+
+Chained actions are:
+*	Part of the [smalltalk](#smalltalk) together with [ad hoc actions](#ad-hoc-actions) and within one use case.
+
+- [x] Add description
 - [ ] Insert graphical representation here
 
 
