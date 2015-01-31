@@ -42,8 +42,17 @@ System Objects are:
 
 
 ### Account Object ###
+Executive set of properties of the [user object](#user-and-system-object).
 
-- [ ] Add description
+Example:
+*	If [user object](#user-and-system-object) is like a profile, than the account object is a login functionality.
+
+Account Objects are:
+*	At least/usually constructed of the user name and password (but could include any number of other properties, like permissions, URLs...)
+*	Applying executive right for users to perform actions and view properties in different [property modes](#property-mode).
+*	Part of the [smalltalk](#smalltalk) process together with [actions](#ad-hoc-action) and [chained actions](#chained-actions).
+
+- [x] Add description
 - [ ] Insert graphical representation here
 
 
