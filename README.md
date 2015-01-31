@@ -1,6 +1,9 @@
 # Objective Design #
 Design framework for developers, business analysts and IA/UX/UI design students.
 
+   
+![The Team](/images/theteam.png)
+
 ### We search for ###
 One design language as a communication platform between developers, business and design folks.
 
