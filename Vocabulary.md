@@ -34,6 +34,7 @@ System Objects are:
 *	Functions or preprogrammed processes, executing automated functions in the application.
 *	Not mandatory part of the application.
 *	Same as objects, containers of properties with all, the same characteristics.
+*	Non interactive parts of the view as opposed to [properties](#property), the interactive part of the view.
 
 - [x] Add description
 - [ ] Insert graphical representation here
@@ -85,7 +86,7 @@ Example:
 *	Use case --> As a car owner I want to add cars I own to my profile to get suggested insurance offers from my supplier. I act on the action --> add number of cars I own to my profile (possibly with additional properties like a production year, engine power...etc). The supplier acts on his/her action - and adds on the insurance offers for each of my cars. I act on the new action created as a result of the supplied offers and choose the plan I want to go with. Supplier finally acts on the his/her action and verifies my choice.
 
 Smalltalk is:
-*	Set of rules applied to objects and it's properties firing new actions as a result of other completed actions.
+*	Set of rules applied to objects and it's properties creating new actions as a result of already completed actions.
 *	It's always restricted to use case for clarity of consecutive actions.
 *	It's a flow, therefore it has a beginning and the end.
 
@@ -95,8 +96,19 @@ Smalltalk is:
 
 
 ### Property ###
+Descriptive element of the object.
 
-- [ ] Add description
+Examples:
+*	Input field --> data element.
+*	Submitted, Accepted state - status element, bool operator.
+*	Created by User --> connection to another object.
+
+Properties are:
+*	Part of the objects, don't exist on their own.
+*	Made of [property modes](#property-mode).
+*	Interactive part of the view, object and interface.
+
+- [x] Add description
 - [ ] Insert graphical representation here
 
 
