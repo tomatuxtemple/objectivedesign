@@ -2,7 +2,7 @@
 Design framework for developers, business analysts and IA/UX/UI design students.
 
    
-![The Team](/images/theteam.png)
+![The Team](/images/theteam.jpg)
 
 ### We search for ###
 One design language as a communication platform between developers, business and design folks.
