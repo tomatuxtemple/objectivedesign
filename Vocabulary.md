@@ -1,7 +1,9 @@
+<br/>
+<br/>
+
 # A stack of useful definitions and phrases #
 Not in the alphabetical order, yet.
 
-<br/>
 <br/>
 
 ### Object ###
@@ -20,7 +22,6 @@ Objects are:
 - [x] Add description
 - [ ] Insert proper graphical representation here
 
-<br/>
 <br/>
 
 ### User and System Object ###
@@ -44,7 +45,6 @@ System Objects are:
 - [ ] Insert graphical representation here
 
 <br/>
-<br/>
 
 ### Account Object ###
 Executive set of properties of the [user object](#user-and-system-object).
@@ -60,7 +60,6 @@ Account Objects are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-<br/>
 <br/>
 
 ### Ad hoc Action ###
@@ -79,7 +78,6 @@ Ad hoc actions are:
 - [ ] Insert graphical representation here
 
 <br/>
-<br/>
 
 ### Chained Actions ###
 When one action occurs as a result of another action being completed.
@@ -93,7 +91,6 @@ Chained actions are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-<br/>
 <br/>
 
 ### Smalltalk ###
@@ -110,7 +107,6 @@ Smalltalk is:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-<br/>
 <br/>
 
 ### Property ###
@@ -130,7 +126,6 @@ Properties are:
 - [ ] Insert graphical representation here
 
 <br/>
-<br/>
 
 ### Property Mode ###
 
@@ -138,14 +133,12 @@ Properties are:
 - [ ] Insert graphical representation here
 
 <br/>
-<br/>
 
 ### Views ###
 
 - [ ] Add description
 - [ ] Insert graphical representation here
 
-<br/>
 <br/>
 
 ### Extract ###
