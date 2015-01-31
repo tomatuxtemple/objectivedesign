@@ -1,6 +1,9 @@
 # A stack of useful definitions and phrases #
 Not in the alphabetical order, yet.
 
+<br/>
+<br/>
+
 ### Object ###
 A container of properties (or a single [property](#property)) describing a meaningful entity for the user within the application.
 
@@ -17,7 +20,8 @@ Objects are:
 - [x] Add description
 - [ ] Insert proper graphical representation here
 
-
+<br/>
+<br/>
 
 ### User and System Object ###
 Both are a special cases of the [object](#object) - if linked to the [account object](#account-object) they inherit executive function within the application and become an essential part of the [actions](#ad-hoc-action) functionality.  
@@ -39,7 +43,8 @@ System Objects are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Account Object ###
 Executive set of properties of the [user object](#user-and-system-object).
@@ -55,7 +60,8 @@ Account Objects are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Ad hoc Action ###
 Properties mode update as a result of user (or system) interaction with it.
@@ -72,7 +78,8 @@ Ad hoc actions are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Chained Actions ###
 When one action occurs as a result of another action being completed.
@@ -86,7 +93,8 @@ Chained actions are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Smalltalk ###
 Flow of all actions (ad hoc and chained) within one use case.
@@ -102,7 +110,8 @@ Smalltalk is:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Property ###
 Descriptive element of the object.
@@ -120,21 +129,24 @@ Properties are:
 - [x] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Property Mode ###
 
 - [ ] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Views ###
 
 - [ ] Add description
 - [ ] Insert graphical representation here
 
-
+<br/>
+<br/>
 
 ### Extract ###
 
