@@ -1,5 +1,3 @@
-<br/>
-
 # A stack of useful definitions and phrases #
 Pilled up in order of importance not alphabetically.
 
