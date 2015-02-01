@@ -1,8 +1,7 @@
 <br/>
-<br/>
 
 # A stack of useful definitions and phrases #
-Not in the alphabetical order, yet.
+Pilled up in order of importance not alphabetically.
 
 <br/>
 
@@ -120,7 +119,7 @@ Examples:
 Properties are:
 *	Part of the objects, don't exist on their own.
 *	Made of [property modes](#property-mode).
-*	Interactive part of the view, object and interface.
+*	Interactive part of the [view](#view), [object](#object) and interface, because of the [property modes](#property-modes).
 
 - [x] Add description
 - [ ] Insert graphical representation here
@@ -128,8 +127,18 @@ Properties are:
 <br/>
 
 ### Property Mode ###
+State of the [property](#property).
 
-- [ ] Add description
+Examples for:
+*	Data element (input field) --> edit/published modes
+*	Status element (bool operator) --> change to/locked modes
+*	Connection (relation to another object) --> open access/private modes
+
+Property Modes:
+*	Determine the visual representation of the [property](#property) in the interface.
+*	Are the ultimate interactive part of the [view](#view), [object](#object), [property](#property) - user interface.
+
+- [x] Add description
 - [ ] Insert graphical representation here
 
 <br/>
