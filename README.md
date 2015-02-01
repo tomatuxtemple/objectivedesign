@@ -16,4 +16,4 @@ Knowledge transfer as our main way of learning and teaching.
 ### We crave ###
 People who help us spread design ideas.
 
-## check the backlog for things to come ## <br/> ## watch the repo for updates ##
+## check the backlog for things to come <br/> watch the repo for updates ##
