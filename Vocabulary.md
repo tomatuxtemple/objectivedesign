@@ -91,7 +91,7 @@ Chained actions are:
 <br/>
 
 ### Smalltalk ###
-Flow of all actions (ad hoc and chained) within one use case.
+Flow of all actions (ad hoc and chained) within one [user story](#user-story).
 
 Example:
 *	Use case --> As a car owner I want to add cars I own to my profile to get suggested insurance offers from my supplier. I act on the action --> add number of cars I own to my profile (possibly with additional properties like a production year, engine power...etc). The supplier acts on his/her action - and adds on the insurance offers for each of my cars. I act on the new action created as a result of the supplied offers and choose the plan I want to go with. Supplier finally acts on the his/her action and verifies my choice.
@@ -103,6 +103,14 @@ Smalltalk is:
 
 - [x] Add description
 - [ ] Insert graphical representation here
+
+<br/>
+
+### User Story ###
+
+- [ ] Add description
+- [ ] Insert graphical representation here
+
 
 <br/>
 
@@ -142,8 +150,19 @@ Property Modes:
 <br/>
 
 ### Views ###
+Objects grouped by their properties.
 
-- [ ] Add description
+Examples:
+*	Show to user all the documents created by him --> show all the objects with property 1 (connection type)
+*	Show to user all the photos from today --> show all the objects with property 1 (data type)
+
+Views are:
+*	Flexible.
+*	Similar to filters in the results aspect.
+*	Higher level of information organisation than objects.
+*	Interactive parts of the application if there is more than one.
+
+- [x] Add description
 - [ ] Insert graphical representation here
 
 <br/>
@@ -152,3 +171,14 @@ Property Modes:
 
 - [ ] Add description
 - [ ] Insert graphical representation here
+
+
+
+
+
+
+
+
+
+
+
